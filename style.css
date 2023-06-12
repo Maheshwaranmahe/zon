@@ -307,10 +307,10 @@ img {
     text-transform: uppercase;
     font-size: x-large;
     font-weight: bold;
-    padding: 1rem 4rem;
+    padding: 1rem 2rem;
     text-align: center;
     margin-top: 90%;
-    margin-left: 500px;
+    margin-left: 700px;
 }
 .table:hover{
     background-color: #fff;
@@ -677,7 +677,7 @@ li .active{
     font-size: 15px;
     padding: 1rem 1rem;
     margin-top: 180%;
-    margin-left: 110px;
+    margin-left: 150px;
 }
 
 .form h2{
