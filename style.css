@@ -101,6 +101,7 @@ li .active{
 .carousel-item {
     position: absolute;
     opacity: 0;
+    transition: ease-in-out 0.1s;
 }
 .carousel-item img {
     display: block;
@@ -525,7 +526,7 @@ ul.conta li a {
 }
 
 
-@media screen and (max-width:900px){
+@media only screen and (min-width:200px) and (max-width:767px) {
     .navbar {
         width: 100%;
         height: auto;
@@ -573,7 +574,7 @@ li .active{
     font-size: 30px;
 }
 .homecontainer {
-    background: linear-gradient(to right,#1f1d47 ,#1f1d47 67.5% ,#db3620 67.5% ,#db3620 100%);
+    background: linear-gradient(to right,#1f1d47 ,#1f1d47 68% ,#db3620 68% ,#db3620 100%);
     margin-left: 20px;
 }
 .carouselcontainer{
