@@ -642,7 +642,7 @@ li .active{
 
 
 .service{
-    height: 130%;
+    height: 110%;
     width: auto;
     background-color:#1f1d47;
     margin: 20px 0 0 20px;
@@ -677,8 +677,8 @@ li .active{
     text-transform: uppercase;
     font-size: 15px;
     padding: 1rem 0.5rem;
-    margin-top: 200%;
-    margin-left: 120px;
+    margin-top: 170%;
+    margin-left: 160px;
 }
 
 .form h2{
