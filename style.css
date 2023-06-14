@@ -531,6 +531,9 @@ ul.conta li a {
         width: 100%;
         height: auto;
 }
+header{    
+    background: linear-gradient(to right,#1f1d47 ,#1f1d47 65% ,#db3620 65% ,#db3620 100%);
+}
 .nav1{
     width: 80%;
     height: 400px;
